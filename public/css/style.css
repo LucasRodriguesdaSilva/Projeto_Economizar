@@ -1,0 +1,51 @@
+*{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+/* body */
+body{
+    min-height: 100vh;
+    padding-bottom: 100px;
+    position: relative;
+}
+
+.row{
+ margin: 0;
+}
+
+
+/* cards */
+#inputs_RD {
+    margin-bottom: 20px;
+}
+
+#adicionarValores {
+    margin-left: 12px;
+    margin-right: 11px;
+}
+
+#botoes {
+    margin-top: 23px;
+}
+
+#cancel {
+    margin-left: 5px;
+}
+
+#valores_RD {
+    margin-bottom: 50px;
+}
+/* footer */
+footer{
+    text-align: center;
+    background-color: #353E48;
+    color: #FFF;
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p{
+    margin-bottom: 0;
+}
